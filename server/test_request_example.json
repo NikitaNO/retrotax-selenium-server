@@ -1,0 +1,72 @@
+[
+	{
+		"testFiles": [
+        		"FirstNameCompleteTest"
+		],
+        	"pageUrl": "http://plugin.retrotax-aci.com",
+        	"capabilities": {
+                	"platform":"WINDOWS",
+                	"browserName": "chrome",
+                	"version": "40",
+                	"resolution": "1024x768",
+                        "serverUrl":"localhost:4444/wd/hub",
+			"acceptSslCerts": true
+            	}
+        },
+        {
+		"testFiles": [
+        		"FirstNameCompleteTest"
+		],
+        	"pageUrl": "http://plugin.retrotax-aci.com",
+        	"capabilities": {
+                	"platform":"WINDOWS",
+                	"browserName": "firefox",
+                	"version": "30",
+                	"resolution": "1024x768",
+                        "serverUrl":"localhost:4444/wd/hub",
+			"acceptSslCerts": true
+            	}
+        },
+        {
+		"testFiles": [
+        		"FirstNameCompleteTest"
+		],
+        	"pageUrl": "http://plugin.retrotax-aci.com",
+        	"capabilities": {
+                	"platform":"WINDOWS",
+                	"browserName": "ie",
+                	"version": "11",
+                	"resolution": "1024x768",
+                        "serverUrl":"localhost:4444/wd/hub",
+			"acceptSslCerts": true
+            	}
+        },
+        {
+		"testFiles": [
+        		"FirstNameCompleteTest"
+		],
+        	"pageUrl": "http://plugin.retrotax-aci.com",
+        	"capabilities": {
+                	"platform":"WINDOWS",
+                	"browserName": "opera",
+                	"version": "32",
+                	"resolution": "1024x768",
+                        "serverUrl":"localhost:4444/wd/hub",
+			"acceptSslCerts": true
+            	}
+        },
+        {
+		"testFiles": [
+        		"FirstNameCompleteTest"
+		],
+        	"pageUrl": "http://plugin.retrotax-aci.com",
+        	"capabilities": {
+                	"platform":"WINDOWS",
+                	"browserName": "safari",
+                	"version": "5.1",
+                	"resolution": "1024x768",
+                        "serverUrl":"localhost:4444/wd/hub",
+			"acceptSslCerts": true
+            	}
+        }
+]

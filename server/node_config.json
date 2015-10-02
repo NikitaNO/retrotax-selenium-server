@@ -1,0 +1,38 @@
+{
+    "capabilities": [
+        {
+            "browserName": "firefox",
+            "version": "40",
+            "platform": "WINDOWS",
+            "maxInstances": 5
+        },
+        {
+            "browserName": "chrome",
+            "version": "45",
+            "platform": "WINDOWS",
+            "maxInstances": 5
+        },
+        {
+            "browserName": "internet explorer",
+            "version": "11",
+            "platform": "WINDOWS",
+            "maxInstances": 5
+        },
+        {
+            "browserName": "opera",
+            "version": "32",
+            "platform": "WINDOWS",
+            "maxInstances": 5
+        },
+        {
+            "browserName": "safari",
+            "version": "5.1",
+            "platform": "WINDOWS",
+            "maxInstances": 5
+        }
+    ],
+    "configuration": {
+        "hubHost": "localhost",
+        "hubPort": 4444
+    }
+}
